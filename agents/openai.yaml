@@ -1,0 +1,4 @@
+interface:
+  display_name: "达人联系方式深挖"
+  short_description: "读取导出的达人名单，深挖公开商务邮箱与联系方式，生成可跟进的Excel"
+  default_prompt: "使用 $enrich-creator-contacts 处理我上传的达人数据，逐个深挖公开商务联系方式并生成带来源的 Excel。"
